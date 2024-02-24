@@ -1,0 +1,18 @@
+.homeControls {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    background-color: white;
+    padding: 15px 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.controlsText {
+    display:inline;
+    color: black;
+    margin-left: 20px;
+    margin-right: 10px;
+}

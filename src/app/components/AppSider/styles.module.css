@@ -1,0 +1,42 @@
+
+.AppSider {
+    width: 15%;
+    min-height: 100%;
+    display: flex;
+    background-color: #7d1919;
+   
+}
+
+.SiderMenu {
+    height: 100%;
+    top: -60px;
+    position: relative;
+    text-align: left;
+    background-color: #7d1919;
+    padding-top: 50px;
+    
+}
+
+.SiderItem {
+    font-size: 20px; 
+    color: #fff;
+    margin-bottom: 25px;
+}
+
+.SiderIcon {
+  font-size: 30px; 
+  color: white;
+  
+}
+
+.websiteTitle {
+   background-color: #7d1919;
+   color: #fff;
+   padding-top: 1rem;
+   padding-left: 1rem;
+   text-align: left;
+   font-size: 20px;
+   min-height: 60px;
+   position: relative;
+   top: -30px;
+}

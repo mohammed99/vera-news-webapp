@@ -1,0 +1,19 @@
+
+.articleContainer {
+    background-color: white;
+    margin: 15px 15px;
+    padding: 10px 10px;
+    border: 5px black;
+    min-height: 100%;
+}
+
+
+.title {
+   direction: rtl;
+}
+
+.content {
+   direction: rtl;
+   font-size: 16px;
+   padding: 10px 10px;
+}
